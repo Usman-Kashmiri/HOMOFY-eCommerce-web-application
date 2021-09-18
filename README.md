@@ -79,3 +79,7 @@ giving specific records that would be saved in the database after completion of 
 This route will redirect the user to the cart component when user wants to add some products to
 the cart
 
+
+
+![1](https://user-images.githubusercontent.com/70211234/133905421-732c0462-dba4-48b9-bf9b-edb2da13ce02.png)
+
